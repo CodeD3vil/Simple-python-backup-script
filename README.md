@@ -4,7 +4,7 @@ A simple python file backup script.
 
 ## Description
 
-A simple python script I wrote for my coulege at work to autoamte file backups. There were some raw exported files that had to be compressed and then copied to a backup server. This script does exactly that and nothing else. It is my first project since I`m just learning how to code right now. I`m sure it can be done better and cleaner, but it does the job.
+A simple python script I wrote for my coulege at work to autoamte file backups. There were some raw exported files that had to be compressed and then copied to a backup server. This script does exactly that and nothing else. It is my first project since Im just learning how to code right now. Im sure it can be done better and cleaner, but it does the job.
 
 ## Getting Started
 
