@@ -20,7 +20,7 @@ There is no installation required.
 ### Executing program
 
 * How to run the program
-* The script can be run directly or you can use Windows task scheduler to schedule the script to run.
+The script can be run directly or you can use Windows task scheduler to schedule the script to run.
 
 ## Help
 
