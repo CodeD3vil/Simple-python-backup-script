@@ -14,25 +14,19 @@ You have to have Python 3 installed on your computer.
 
 ### Installing
 
-There is no installation required. 
+* There is no installation required. 
 * Any modifications needed to be made to files/folders
+You have to give the script valid folder paths.
+If you want to receive a notification email. Provide a valid Gmail email address and password. You have to allow "unsecure apps" in the sender Google account.
 
 ### Executing program
 
-* How to run the program
 The script can be run directly or you can use Windows task scheduler to schedule the script to run.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
-
-Contributors names and contact info
-
 
 
 ## Version History
